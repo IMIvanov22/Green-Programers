@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: rgb(2, 255, 2);
+    height: 60pt;
+    text-align: center;
+}
+.navbar a {
+    float: left;
+    padding: 200px;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: center;
+    font: 28pt 'Nova';
+}
