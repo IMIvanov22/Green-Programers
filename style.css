@@ -1,15 +1,24 @@
+body {
+    background-color: aqua;
+}
+.table {
+    background-color: #46fd46;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    height: 40vh;
+    width: 60vw;
+    border-radius: 10px;
+}
 .navbar {
-    display: flex;
     align-items: center;
-    background-color: rgb(2, 255, 2);
-    height: 60pt;
-    text-align: center;
+    background-color: #46fd46;
+    height: 62pt;
+    border-radius: 10px;
 }
 .navbar a {
-    float: left;
-    padding: 200px;
-    color: whitesmoke;
+    color: white;
     text-align: center;
-    text-decoration: center;
-    font: 28pt 'Nova';
+    text-decoration: none;
+    font-size: 30pt;
 }
