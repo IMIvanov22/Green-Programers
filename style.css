@@ -15,10 +15,25 @@ body {
     background-color: #46fd46;
     height: 62pt;
     border-radius: 10px;
+    text-align: center;
+    margin: auto;
 }
 .navbar a {
     color: white;
     text-align: center;
     text-decoration: none;
     font-size: 30pt;
+}
+.navbar a:hover {
+    background-color: whitesmoke;
+    color: #101010;
+    text-align: center;
+}
+.teamtable {
+    background-color: #46fd46;
+    margin:auto;
+    margin-top: 175px;
+    width: 60vw;
+    text-align: center;
+    border-radius: 10px;
 }
