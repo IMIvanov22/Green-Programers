@@ -1,8 +1,8 @@
 body {
-    background-color: aqua;
+    background-color: #4CAF50;
 }
 .table {
-    background-color: #46fd46;
+    background-color: #D2B48C;
     margin-left: auto;
     margin-right: auto;
     margin-top: 250px;
@@ -12,14 +12,14 @@ body {
 }
 .navbar {
     align-items: center;
-    background-color: #46fd46;
+    background-color: #D2B48C;
     height: 62pt;
     border-radius: 10px;
     text-align: center;
     margin: auto;
 }
 .navbar a {
-    color: white;
+    color: #F1F8E9;
     text-align: center;
     text-decoration: none;
     font-size: 30pt;
@@ -30,7 +30,7 @@ body {
     text-align: center;
 }
 .teamtable {
-    background-color: #46fd46;
+    background-color: #D2B48C;
     margin:auto;
     margin-top: 175px;
     width: 60vw;
