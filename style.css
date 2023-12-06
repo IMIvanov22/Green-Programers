@@ -6,9 +6,9 @@ body {
     background-color: #ce9643;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 210px;
-    height: 40vh;
-    width: 60vw;
+    margin-top: 120px;
+    height: 50vh;
+    width: 70vw;
     border-radius: 10px;
 }
 .navbar {
@@ -25,6 +25,7 @@ body {
     text-decoration: none;
     font-size: 30pt;
     padding-left: 100px ;
+    margin: 60px;
 }
 .navbar a:hover {
     color: #101010;
@@ -90,4 +91,18 @@ body {
     height: auto;
     left: 25px;
     top: 3px;
+}
+p{
+    color: white;
+    font-size: 60px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.page{
+    font-size: 50px;
+    margin: 72px;
+    color:white;
 }
