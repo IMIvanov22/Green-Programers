@@ -95,6 +95,37 @@ body {
 p{
     color: white;
     font-size: 35px;
+    width: 70%;
+}
+.environment_pic1{
+    position: absolute;
+    right: 10px;
+    top: 140px;
+    border-radius: 5%;
+}
+.environment_pic2{
+    position: absolute;
+    width: 400px;
+    height: auto;
+    right: 10px;
+    top: 450px;
+    border-radius: 5%;
+}
+.environment_pic3{
+    position: absolute;
+    width: 400px;
+    height: auto;
+    right: 10px;
+    top: 900px;
+    border-radius: 5%;
+}
+.environment_pic4{
+    position: absolute;
+    width: 700px;
+    height: auto;
+    left: 31%;
+    top: 1450px;
+    border-radius: 5%;
 }
 h1{
     text-align: center;
