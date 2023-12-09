@@ -1,9 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@media screen and (max-width: 1024px) {
+    .appPreview {
+       display: block;
+    }
+    .right_content {
+       float: none;
+    }
+    div.MoreInfoterms {
+       width: 100%;
+    } 
+ }
 body {
-    background-color: #32CD32;
+    background-color: #2fe42f;
     position: relative;
+    font-family: "PT Sans", sans-serif;
 }
 .table {
-    background-color: #ce9643;
+    background-color: #d49941;
     margin-left: auto;
     margin-right: auto;
     margin-top: 120px;
@@ -13,7 +26,7 @@ body {
 }
 .navbar {
     align-items: center;
-    background-color: #228B22;
+    background-color: #1f971f;
     height: 62pt;
     border-radius: 10px;
     text-align: center;
@@ -32,7 +45,7 @@ body {
     text-align: center;
 }
 .teamtable {
-    background-color: #ce9643;
+    background-color: #d49941;
     margin-top: 75px;
     margin-left: 30px;
     width: 60vw;
@@ -41,7 +54,7 @@ body {
     border-radius: 10px;
 }
 .teamtable1 {
-    background-color: #ce9643;
+    background-color: #d49941;
     margin-top: 75px;
     margin-left: 575px;
     width: 60vw;
@@ -50,7 +63,7 @@ body {
     border-radius: 10px;
 }
 .teamtable2 {
-    background-color: #ce9643;
+    background-color: #d49941;
     margin-top: 75px;
     margin-left: 30px;
     width: 60vw;
@@ -59,7 +72,7 @@ body {
     border-radius: 10px;
 }
 .footer1 {
-    background-color: #ce9643;
+    background-color: #d49941;
     color: white;
     padding: 10px;
     text-align: center;
@@ -68,7 +81,7 @@ body {
     border-radius: 10px;
 }
 .footer2 {
-    background-color: #ce9643;
+    background-color: #d49941;
     color: white;
     padding: 10px;
     text-align: center;
@@ -77,7 +90,7 @@ body {
     border-radius: 10px;
 }
 .footer3 {
-    background-color: #ce9643;
+    background-color: #d49941;
     color: white;
     padding: 10px;
     text-align: center;
@@ -100,7 +113,7 @@ p{
 .environment_pic1{
     position: absolute;
     right: 10px;
-    top: 140px;
+    top: 160px;
     border-radius: 5%;
 }
 .environment_pic2{
@@ -108,7 +121,7 @@ p{
     width: 400px;
     height: auto;
     right: 10px;
-    top: 450px;
+    top: 670px;
     border-radius: 5%;
 }
 .environment_pic3{
@@ -116,7 +129,7 @@ p{
     width: 400px;
     height: auto;
     right: 10px;
-    top: 900px;
+    top: 1200px;
     border-radius: 5%;
 }
 .environment_pic4{
@@ -124,7 +137,7 @@ p{
     width: 700px;
     height: auto;
     left: 31%;
-    top: 1450px;
+    top: 1950px;
     border-radius: 5%;
 }
 h1{
