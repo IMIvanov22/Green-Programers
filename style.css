@@ -14,9 +14,14 @@ body {
     background-color: #2fe42f;
     position: relative;
     font-family: "PT Sans", sans-serif;
+    background-image: url('photos/green-abstract-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
 }
 .table {
-    background-color: #d49941;
+    background-color: #ca913c;
     margin-left: auto;
     margin-right: auto;
     margin-top: 120px;
@@ -26,7 +31,7 @@ body {
 }
 .navbar {
     align-items: center;
-    background-color: #1f971f;
+    background-color: #ca913c;
     height: 62pt;
     border-radius: 10px;
     text-align: center;
@@ -45,7 +50,7 @@ body {
     text-align: center;
 }
 .teamtable {
-    background-color: #d49941;
+    background-color: #ca913c;
     margin-top: 75px;
     margin-left: 30px;
     width: 60vw;
@@ -54,7 +59,7 @@ body {
     border-radius: 10px;
 }
 .teamtable1 {
-    background-color: #d49941;
+    background-color: #ca913c;
     margin-top: 75px;
     margin-left: 575px;
     width: 60vw;
@@ -63,7 +68,7 @@ body {
     border-radius: 10px;
 }
 .teamtable2 {
-    background-color: #d49941;
+    background-color: #ca913c;
     margin-top: 75px;
     margin-left: 30px;
     width: 60vw;
@@ -72,7 +77,7 @@ body {
     border-radius: 10px;
 }
 .footer1 {
-    background-color: #d49941;
+    background-color: #ca913c;
     color: white;
     padding: 10px;
     text-align: center;
@@ -81,7 +86,7 @@ body {
     border-radius: 10px;
 }
 .footer2 {
-    background-color: #d49941;
+    background-color: #ca913c;
     color: white;
     padding: 10px;
     text-align: center;
@@ -90,7 +95,7 @@ body {
     border-radius: 10px;
 }
 .footer3 {
-    background-color: #d49941;
+    background-color: #ca913c;
     color: white;
     padding: 10px;
     text-align: center;
