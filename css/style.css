@@ -1,15 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
-@media screen and (max-width: 1024px) {
-    .appPreview {
-       display: block;
-    }
-    .right_content {
-       float: none;
-    }
-    div.MoreInfoterms {
-       width: 100%;
-    } 
- }
 body {
     background-color: #2fe42f;
     position: relative;

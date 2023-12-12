@@ -1,8 +1,7 @@
 # Green-Programmers
 
-<img src="../Green-Programmers/photos/pic2.png">
-
 # People who  contribute to this project:
+
 # Ivan Mladenov Ivanov 9B - SCRUM Trainer and Front-End Developer
 # Borislav Aleksandrov Petkov 9A - Front-End Developer
 # Tsvetomir Stilqnov Stoilov 9B - Web Designer
