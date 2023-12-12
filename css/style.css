@@ -14,7 +14,7 @@ body {
     background-color: #2fe42f;
     position: relative;
     font-family: "PT Sans", sans-serif;
-    background-image: url('photos/green-abstract-background.jpg');
+    background-image: url('../photos/green-abstract-background.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -142,7 +142,7 @@ p{
     width: 700px;
     height: auto;
     left: 31%;
-    top: 1950px;
+    top: 1750px;
     border-radius: 5%;
 }
 h1{
