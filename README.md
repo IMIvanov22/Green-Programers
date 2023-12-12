@@ -4,7 +4,7 @@
 
 # Ivan Mladenov Ivanov 9B - SCRUM Trainer and Front-End Developer
 # Borislav Aleksandrov Petkov 9A - Front-End Developer
-# Tsvetomir Stilqnov Stoilov 9B - Web Designer
+# Tsvetomir Stiliqnov Stoilov 9B - Web Designer
 
 # Project main target is to make people more reliable for the environment.
 
